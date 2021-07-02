@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?16c6036341adeb54da07ea352f698ecf") format("truetype"),
+url("./flaticon.woff?16c6036341adeb54da07ea352f698ecf") format("woff"),
+url("./flaticon.woff2?16c6036341adeb54da07ea352f698ecf") format("woff2"),
+url("./flaticon.eot?16c6036341adeb54da07ea352f698ecf#iefix") format("embedded-opentype"),
+url("./flaticon.svg?16c6036341adeb54da07ea352f698ecf#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-cigars:before {
+    content: "\f101";
+}
+.flaticon-box:before {
+    content: "\f102";
+}
+.flaticon-package:before {
+    content: "\f103";
+}
+.flaticon-customer:before {
+    content: "\f104";
+}
+.flaticon-courier:before {
+    content: "\f105";
+}
+.flaticon-box-1:before {
+    content: "\f106";
+}
+.flaticon-briefcase:before {
+    content: "\f107";
+}
+.flaticon-rating:before {
+    content: "\f108";
+}
+.flaticon-wristwatch:before {
+    content: "\f109";
+}
